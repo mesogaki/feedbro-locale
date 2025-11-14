@@ -20,7 +20,7 @@
     "addfeed_entrycontent_body": "피드 항목 내용",
     "addfeed_entrycontent_select_title": "피드 항목 내용을 처리하는 방법 정의",
     "addfeed_entrycontent_select_asis_body": "원본 그대로 - 피드에서 정의함",
-    "addfeed_entrycontent_select_asis_title": "",
+    "addfeed_entrycontent_select_fulltextimage_body": "기사 본문 전체와 기사 주요 이미지 가져오기",
     "addfeed_entrycontent_select_fulltextimage_body": "기사 주요 이미지와 함께 전체 기사 본문 가져오기",
     "addfeed_entrycontent_select_fulltextimage_title": "이 방법은 전체 기사 내용을 파싱하는 데 느리고 정확하지 않습니다. Readability와 유사합니다. 각 피드 기사는 별도의 HTTP GET 요청을 생성합니다.모든 사이트에서 작동하지 않습니다.주요 이미지는 og:image 메타데이터에서 가져옵니다.",
     "addfeed_entrycontent_select_fulltext_body": "전체 기사 본문 가져오기",
@@ -290,7 +290,7 @@
     "options_markread_confirm_body": "'읽음으로 표시' 기능 확인 대화상자",
     "options_markread_confirm_never_body": "안 함",
     "options_markread_confirm_never_title": "위험! 이 설정을 사용하면 읽지 않은 모든 기사를 실수로 읽음으로 표시할 수 있습니다! 취소할 수 없습니다!",
-    "options_markread_confirm_allitems_body": "모든 항목 보기를 읽음으로 표시할 때만"
+    "options_markread_confirm_allitems_body": "모든 항목 보기를 읽음으로 표시할 때만",
     "options_markread_confirm_always_body": "항상",
     "options_notificationclick_body": "기사 데스크톱 알림 클릭",
     "options_notificationclick_select_title": "사용자가 기사의 데스크톱 알림 팝업을 클릭할 때 발생하는 동작을 정의합니다.",
@@ -550,4 +550,4 @@
     "toolbar_reload_title": "현재 선택된 피드 또는 폴더 다시 로드 로컬 데이터베이스(피드 소스 아님) - 단축키 'r'",
     "toolbar_prev_title": "이전 항목 - 단축키 'k' 또는 'p'",
     "toolbar_next_title": "다음 항목 - 단축키 'j' 또는 'n'"
-}
+}    
